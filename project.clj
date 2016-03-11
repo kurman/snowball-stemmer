@@ -3,6 +3,6 @@
   :url "https://github.com/weavejester/snowball-stemmer"
   :license {:name "The New BSD License"
             :url "http://opensource.org/licenses/bsd-license.html"}
-  :dependencies [[org.clojure/clojure "1.2.1"]]
+  :dependencies [[org.clojure/clojure "1.8.0"]]
   :source-paths ["src/clj"]
   :java-source-paths ["src/java"])
